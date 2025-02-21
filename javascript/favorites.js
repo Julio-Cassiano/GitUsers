@@ -116,8 +116,8 @@ export class FavoritesView extends Favorites {
 
         tr.innerHTML = `
                     <td class="user">
-                        <img src="https://github.com/maykbrito.png" alt="">
-                        <a href="https://github.com/maykbrito" target="_blank"><p>Mayk Brito</p>
+                        <img src="https://github.com/julio-cassiano.png" alt="">
+                        <a href="https://github.com/maykbrito" target="_blank"><p>Julio Cassiano</p>
                         <span>maykbrito</span></a>
                     </td>
 
