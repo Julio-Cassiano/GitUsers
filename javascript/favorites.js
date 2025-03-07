@@ -118,7 +118,7 @@ export class FavoritesView extends Favorites {
                     <td class="user">
                         <img src="https://github.com/julio-cassiano.png" alt="">
                         <a href="https://github.com/julio-cassiano" target="_blank"><p>Julio Cassiano</p>
-                        <span>maykbrito</span></a>
+                        <span>julio</span></a>
                     </td>
 
                     <td class="repositories">
